@@ -8,7 +8,11 @@
   ],
   "baseAssets": [
     { "sym": "weth","address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB" },
-    { "sym": "usdt", "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f" }
+    { "sym": "wnear", "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d" },
+    { "sym": "usdt", "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f" },
+    { "sym": "aurora", "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79" },
+    { "sym": "atust", "address": "0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC" },
+    { "sym": "usdc", "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802" }
   ],
   "tokens": [
     {"sym": "HAK", "address": "0x5ac53f985ea80c6af769b9272f35f122201d0f56" },
